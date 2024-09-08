@@ -1,12 +1,20 @@
 {
   "FolderOrderSettings":[
+    {"name":"HUD","order":2,"path":"folders/Objects/HUD.yy",},
+    {"name":"VFX","order":1,"path":"folders/Objects/VFX.yy",},
+    {"name":"HUD","order":4,"path":"folders/Sprites/HUD.yy",},
     {"name":"Items","order":1,"path":"folders/Sprites/Items.yy",},
+    {"name":"Sounds","order":2,"path":"folders/Sprites/Sounds.yy",},
+    {"name":"VFX","order":3,"path":"folders/Sprites/VFX.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"Obj_Coin","order":1,"path":"objects/Obj_Coin/Obj_Coin.yy",},
+    {"name":"obj_game_manager","order":3,"path":"objects/obj_game_manager/obj_game_manager.yy",},
+    {"name":"obj_hud_coin","order":1,"path":"objects/obj_hud_coin/obj_hud_coin.yy",},
     {"name":"grass_01","order":1,"path":"sprites/grass_01/grass_01.yy",},
     {"name":"grass_02","order":2,"path":"sprites/grass_02/grass_02.yy",},
     {"name":"grass_03","order":3,"path":"sprites/grass_03/grass_03.yy",},
+    {"name":"hud_background","order":1,"path":"sprites/hud_background/hud_background.yy",},
     {"name":"rock_01","order":1,"path":"sprites/rock_01/rock_01.yy",},
     {"name":"rock_02","order":2,"path":"sprites/rock_02/rock_02.yy",},
     {"name":"Tree_01","order":1,"path":"sprites/Tree_01/Tree_01.yy",},
