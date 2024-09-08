@@ -1,6 +1,9 @@
 {
-  "FolderOrderSettings":[],
+  "FolderOrderSettings":[
+    {"name":"Items","order":1,"path":"folders/Sprites/Items.yy",},
+  ],
   "ResourceOrderSettings":[
+    {"name":"Obj_Coin","order":1,"path":"objects/Obj_Coin/Obj_Coin.yy",},
     {"name":"grass_01","order":1,"path":"sprites/grass_01/grass_01.yy",},
     {"name":"grass_02","order":2,"path":"sprites/grass_02/grass_02.yy",},
     {"name":"grass_03","order":3,"path":"sprites/grass_03/grass_03.yy",},

@@ -32,6 +32,7 @@
     {"$GMFolder":"","%Name":"Rocks","folderPath":"folders/Sprites/Environment/Rocks.yy","name":"Rocks","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tiles","folderPath":"folders/Sprites/Environment/Tiles.yy","name":"Tiles","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Trees","folderPath":"folders/Sprites/Environment/Trees.yy","name":"Trees","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Items","folderPath":"folders/Sprites/Items.yy","name":"Items","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Player","folderPath":"folders/Sprites/Player.yy","name":"Player","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -45,6 +46,7 @@
   "name":"Dania_Games",
   "resources":[
     {"id":{"name":"Obj_Character","path":"objects/Obj_Character/Obj_Character.yy",},},
+    {"id":{"name":"Obj_Coin","path":"objects/Obj_Coin/Obj_Coin.yy",},},
     {"id":{"name":"obj_collision","path":"objects/obj_collision/obj_collision.yy",},},
     {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},},
     {"id":{"name":"MainLevel","path":"rooms/MainLevel/MainLevel.yy",},},
@@ -53,6 +55,7 @@
     {"id":{"name":"Back_trees_02","path":"sprites/Back_trees_02/Back_trees_02.yy",},},
     {"id":{"name":"cloud_big","path":"sprites/cloud_big/cloud_big.yy",},},
     {"id":{"name":"cloud_small","path":"sprites/cloud_small/cloud_small.yy",},},
+    {"id":{"name":"Coin","path":"sprites/Coin/Coin.yy",},},
     {"id":{"name":"grass_01","path":"sprites/grass_01/grass_01.yy",},},
     {"id":{"name":"grass_02","path":"sprites/grass_02/grass_02.yy",},},
     {"id":{"name":"grass_03","path":"sprites/grass_03/grass_03.yy",},},
