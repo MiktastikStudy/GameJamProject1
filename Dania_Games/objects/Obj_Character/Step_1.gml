@@ -16,9 +16,14 @@ grounded = check_collision(0, 1);
 if(grounded == true){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 4A268F74
+	/// @DnDInput : 2
 	/// @DnDParent : 3F4845EC
-	/// @DnDArgument : "var" "vel_x"
-	vel_x = 0;}
+	/// @DnDArgument : "expr" "x"
+	/// @DnDArgument : "expr_1" "y"
+	/// @DnDArgument : "var" "grounded_x"
+	/// @DnDArgument : "var_1" "grounded_y"
+	grounded_x = x;
+	grounded_y = y;}
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
