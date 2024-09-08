@@ -1,4 +1,12 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"grass_01","order":1,"path":"sprites/grass_01/grass_01.yy",},
+    {"name":"grass_02","order":2,"path":"sprites/grass_02/grass_02.yy",},
+    {"name":"grass_03","order":3,"path":"sprites/grass_03/grass_03.yy",},
+    {"name":"rock_01","order":1,"path":"sprites/rock_01/rock_01.yy",},
+    {"name":"rock_02","order":2,"path":"sprites/rock_02/rock_02.yy",},
+    {"name":"Tree_01","order":1,"path":"sprites/Tree_01/Tree_01.yy",},
+    {"name":"Tree_02","order":2,"path":"sprites/Tree_02/Tree_02.yy",},
+  ],
 }

@@ -20,3 +20,25 @@ vel_y = 0;
 /// @DnDArgument : "expr" "1"
 /// @DnDArgument : "var" "grav_speed"
 grav_speed = 1;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 03F6099D
+/// @DnDArgument : "expr" "23"
+/// @DnDArgument : "var" "jump_speed"
+jump_speed = 23;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 0E089F37
+/// @DnDInput : 3
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "expr_1" "x"
+/// @DnDArgument : "expr_relative_1" "1"
+/// @DnDArgument : "expr_2" "y"
+/// @DnDArgument : "var" "grounded"
+/// @DnDArgument : "var_1" "grounded_x"
+/// @DnDArgument : "var_2" "grounded_y"
+grounded = false;
+grounded_x += x;
+grounded_y = y;
